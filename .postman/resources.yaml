@@ -1,0 +1,12 @@
+workspace:
+  id: cc86eadf-ab02-4baf-8512-3820422deaaa
+localResources:
+  specs:
+    - ../C:/Users/User/Downloads/SOA-Training/GraphQL/target/classes/schema.graphql
+    - ../C:/Users/User/Downloads/SOA-Training/GraphQL/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/schema.graphql
+    - ../C:/Users/User/Downloads/SOA-Training/GraphQL/src/main/resources/schema.graphql
+resourceNameMappings:
+  specs:
+    - ../GraphQL/src/main/resources/schema.graphql: schema.graphql
+    - ../GraphQL/target/classes/schema.graphql: schema.graphql
+    - ../GraphQL/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/schema.graphql: schema.graphql
